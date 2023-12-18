@@ -1,0 +1,73 @@
+.promo {
+    text-align: center;
+    margin: 38px auto;
+    width: 50vw;
+}
+
+.promo img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.frase1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-310%, -320%);
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.frase2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-110%, -100%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.frase3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-106%, 0%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.frase4 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-77%, 100%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.frase5 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-121%, 250%);
+    color: RED;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.retangulo {
+    width: 190px;
+    height: 210px;
+    background-color: #3498db;
+    margin: 110px; 
+    float: left; 
+}
